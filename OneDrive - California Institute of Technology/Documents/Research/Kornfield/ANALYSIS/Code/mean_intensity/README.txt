@@ -1,0 +1,1 @@
+2111_fps.png has "beats," which indicate that the frequency of the LED is slightly faster than the sampling rate of 2111 Hz, probably ~20% faster.
