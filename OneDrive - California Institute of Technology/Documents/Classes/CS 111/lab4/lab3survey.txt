@@ -1,0 +1,30 @@
+CS11 Intro C++ Lab 3
+====================
+
+This is an OPTIONAL feedback survey.  You will not gain or lose any points
+for answering these questions, or not answering these questions, or being
+candid in your responses.
+
+Q1:  Approximately how long did it take for you to implement the assignment?
+
+3 hours.
+
+Q2:  Were there parts of the assignment that were difficult and/or frustrating
+     to figure out how to do correctly?
+
+I didn't realize set was in the std namespace for a while.
+
+Q3:  Did you find the assignment interesting to complete?
+
+Yes, I enjoyed the ease into file-reading and consts, which I had previously
+not understood.
+
+Q4:  Do you feel that the assignment helped you deepen your understanding
+     of the C++ topics covered in the corresponding lecture?
+
+Yes, clear correlation between lectures and labs.
+
+Q5:  Are there related topics that were not covered, that you would like
+     to see covered in the future?
+
+No.
