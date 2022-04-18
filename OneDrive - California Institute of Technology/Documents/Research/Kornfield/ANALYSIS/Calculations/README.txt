@@ -1,1 +1,0 @@
-saxs_data_mu_<1000*Exp[mu]>_sigma_<1000*sigma>.pdf shows scattering data for log-normally distributed bubbles with mu and sigma as parameters of the distribution. Produced using saxs_data_simulated.nb.
